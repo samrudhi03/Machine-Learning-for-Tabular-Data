@@ -45,16 +45,14 @@ The core objective is to compare traditional statistical models, gradient boosti
 ## Key Results
 
 ### Model Performance Summary
-```
 
 | Model | Bank Fraud AUC | Diabetes AUC | Crime AUC | Best Use Case |
-|-------|---|---|---|---|
+|------|---------------|-------------|-----------|--------------|
 | Logistic Regression | 0.858 | - | - | Baseline, interpretability |
 | XGBoost | 0.889 | - | - | Production fraud detection |
 | TensorFlow NN | 0.863 | - | - | Non-linear patterns |
 | Bayesian NN | 0.856 | - | - | Uncertainty-critical applications |
 
-```
 
 ### Critical Findings
 
