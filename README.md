@@ -1,7 +1,6 @@
 # ML for High-Stakes Decisions: Responsible AI Benchmarking Across Three Domains
 
-**MSc Dissertation - University of Bristol, Department of Engineering Mathematics**
-**Supervised by Laurence Aitchison | Ethics approved: Application 15208 
+**MSc Dissertation - University of Bristol, Department of Engineering Mathematics** | Ethics approved: Application 15208 
 
 ---
 
