@@ -8,13 +8,13 @@
 
 When AI models are used to make decisions in healthcare, finance, or public safety, getting the algorithm right is only half the problem. The other half is understanding when to trust it, who it might disadvantage, and what happens when it is wrong.
 
-This dissertation systematically evaluates five machine learning models across three real-world high-stakes domains — not just for predictive accuracy, but for fairness, calibration, uncertainty, and responsible deployment. The findings are empirical, statistically validated, and directly relevant to organisations deploying AI in regulated or sensitive environments.
+This dissertation systematically evaluates five machine learning models across three real-world high-stakes domains - not just for predictive accuracy, but for fairness, calibration, uncertainty, and responsible deployment. The findings are empirical, statistically validated, and directly relevant to organisations deploying AI in regulated or sensitive environments.
 
 ---
 
 ## The Core Finding
 
-> **No single algorithm eliminates bias when it exists in the training data. Responsible deployment requires fairness monitoring, calibration assessment, and human oversight - regardless of which model you choose.**
+**No single algorithm eliminates bias when it exists in the training data. Responsible deployment requires fairness monitoring, calibration assessment, and human oversight - regardless of which model you choose.**
 
 ---
 
