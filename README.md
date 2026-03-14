@@ -115,7 +115,7 @@ Machine-Learning-for-Tabular-Data/
 ├── Bank Fraud Dataset Analysis.ipynb       # 1M row fraud classification
 ├── Diabatese Dataset Analysis.ipynb        # Healthcare prediction & fairness
 ├── UKCrime Dataset Analysis.ipynb          # Live crime prediction pipeline
-└── final_dissertation.pdf                  # Full write-up with methodology and results
+└── Report.pdf                  # Full write-up with methodology and results
 ```
 
 ---
